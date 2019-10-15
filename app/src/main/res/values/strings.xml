@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PakingApp</string>
+
+    <string name="recipes_retrieve_error">Unable to get recipes</string>
+    <string name="servings">Servings</string>
+    <string name="ingredient_quantity_text">%1$s %2$s</string>
+    <string name="widget_no_recipe">No recipe selected</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="check_internet">Check your internet connection please</string>
+    <integer name="grid_column_number">1</integer>
+
+</resources>
